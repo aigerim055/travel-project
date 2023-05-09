@@ -159,8 +159,8 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:8080",
     "http://localhost:3001",
     "http://localhost:3000",
-    "http://3.92.183.40:8000",
-    "http://3.92.183.40",
+    "http://16.16.206.130",
+    "http://16.16.206.130",
 ]
 
 # CORS_ALLOW_CREDENTIALS=True
